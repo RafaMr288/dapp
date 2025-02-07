@@ -1,6 +1,7 @@
 import React from "react";
 import "./app.css"
 import { useState, useEffect } from "react"
+import { ethers } from "ethers";
 
 function App() {
 
